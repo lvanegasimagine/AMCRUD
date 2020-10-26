@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "amcrud-ffed0": {
+      "hosting": {
+        "CompleteAngularMaterialApp": [
+          "amcrud-ffed0"
+        ]
+      }
+    }
+  }
+}
